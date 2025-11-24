@@ -19,8 +19,9 @@
   - Shared infrastructure (datasets, APIs, etc.)
 ---
 
-## 🏫 [anyang Univesity Design Informatics Lab] Research & Projects
->  디자인 인포매틱스 연구실 (Design Informatics Lab; 이하 DILab)은 디자이너의 창의성을 지원하기 위한 혁신적인 인간-컴퓨터 협업 방식에 대한 연구를 활발하게 수행하고 있습니다. DILab은 디자인 과정을 돕기 위한 정보 탐색 방법 및 시스템을 개발하고 있으며, 디자인, 인공지능, 인터랙티브 기술 간 최첨단의 교차 지점을 포착하고 구현합니다. DILab은 세가지 연구 분야에 집중하고 있습니다: 1 인공지능 디자인과 인터랙션 방법, 2 3D 형태 생성 및 편집 인터페이스, 3 실내환경 공간컴퓨팅.
+## 🏫 [Hanyang Univesity Design Informatics Lab] Research & Projects
+>  Design Informatics Lab (DILab) is a research laboratory dedicated to coordinating human and computer efforts to assist in the creative process. Our research focuses on developing information exploration methods and tools that leverage the intersection of design, artificial intelligence, and interaction science.  We are interested in three research areas:  1 Artificial Intelligence in Design & Interaction Method, 2 3D Shape Generation & Editing Interfaces, 3 Spatial Computing for Indoor Environment. <br> <br>
+> 디자인 인포매틱스 연구실 (Design Informatics Lab; 이하 DILab)은 디자이너의 창의성을 지원하기 위한 혁신적인 인간-컴퓨터 협업 방식에 대한 연구를 활발하게 수행하고 있습니다. DILab은 디자인 과정을 돕기 위한 정보 탐색 방법 및 시스템을 개발하고 있으며, 디자인, 인공지능, 인터랙티브 기술 간 최첨단의 교차 지점을 포착하고 구현합니다. DILab은 세가지 연구 분야에 집중하고 있습니다: 1 인공지능 디자인과 인터랙션 방법, 2 3D 형태 생성 및 편집 인터페이스, 3 실내환경 공간컴퓨팅.
 
 
 ## 📚 Publications
@@ -39,7 +40,7 @@
 ---
 
 ## 🧪 [KAIST Visual AI Group] Research & Project
-> 카이스트 측에서 진행 중인 관련 연구들을 정리하는 섹션입니다.  
+> The KAIST Visual AI Group, led by Minhyuk Sung, conducts research on advancing technologies for generating, processing, and analyzing diverse visual data. Our work spans areas such as machine learning, computer vision, and computer graphics.
 
 ## 📚 Publications
 
