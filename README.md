@@ -1,4 +1,5 @@
-# 🌐 디자이너 중심의 AI 디자인 생성 파이프라인 개발 / Designer-Centered AI Design Generation Pipeline
+# 🌐 디자이너 중심의 AI 디자인 생성 파이프라인 개발 
+      Designer-Centered AI Design Generation Pipeline
 
 - 🔹 **Our research projects and demos**
 - 🔹 Shared datasets, code repositories, and publications
@@ -7,7 +8,7 @@
 ## 🚀 Quick Links
 
 - 🔗 [DesignInformaticsLab](https://designinformatics.hanyang.ac.kr/)
-- 🔗 [KAIST Visual AI Group]([https://designinformatics.hanyang.ac.kr/](https://visualai.kaist.ac.kr/))
+- 🔗 [KAIST Visual AI Group](https://visualai.kaist.ac.kr/)
 ---
 
 ## 🧩 About This Portal
@@ -74,12 +75,12 @@
 ## 📬 Contact
 
 - **[Design Informatics Lab]**:  
-  - Name: **[Your Name]** – [email@domain]  
+  - Lab Leader: **[KYUNG HOON HYUN ]** – [hoonhello@hanyang.ac.kr]  
   - Lab / Group: **DesignInfomaticsLab** – [Lab website](https://designinformatics.hanyang.ac.kr/)
 
 - **[KAIST Visual AI Group]**:  
-  - Name: **[Collaborator Name]** – [email@kaist.ac.kr]  
-  - Lab: **[KAIST Lab Name]** – [Lab website](https://...)
+  - Name: **[Minhyuk Sung]** – [mhsung (at) kaist.ac.kr]  
+  - Lab: **KAIST Visual AI Group** – [Lab website](https://visualai.kaist.ac.kr/)
 
 > For issues or broken links, please open a GitHub Issue in this repository.
 
