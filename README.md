@@ -1,8 +1,10 @@
-# 🌐 디자이너 중심의 AI 디자인 생성 파이프라인 개발 
-      Designer-Centered AI Design Generation Pipeline
+# 🌐 디자이너 의도 기반의 AI활용 디자인 구현 기술 개발
+     Development of AI-Driven Design Generation Technology Based on Designer Intent
 
 - 🔹 **Our research projects and demos**
 - 🔹 Shared datasets, code repositories, and publications
+- 🔹 디자이너 중심의 AI 디자인 생성 파이프라인 개발/ Designer-Centered AI Design Generation Pipeline 1세부 과제
+
 ---
 
 ## 🚀 Info
@@ -54,9 +56,6 @@
   - Access: `[internal path or URL]`
   - Notes: _License, usage guidelines, etc._
 
-- **[Dataset Name 2]**
-  - Description: [...]
-  - Access: [...]
 
 ### 🖥 Demo Systems
 
@@ -64,10 +63,6 @@
   - Description: _e.g., “Web demo for VKG-based design exploration.”_
   - URL: [https://...](https://...)
   - Status: `online` / `internal only` / `prototype`
-
-- **[System Name 2]**
-  - Description: [...]
-  - URL: [...]
 
 
 ---
