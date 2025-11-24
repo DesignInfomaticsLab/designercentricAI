@@ -28,23 +28,25 @@
 
 ---
 
-## 🧷 Shared Datasets & Demo Systems
+## 🧷  Github repository & Demo Systems & Datasets
 
-### 📂 Datasets
+### 🏴 Github repository
 
-- **[Dataset Name 1]**
-  - Description: _What it contains, size, modality (e.g., “3D chairs + text attributes”)._
-  - Access: `[internal path or URL]`
-  - Notes: _License, usage guidelines, etc._
-
-
+- **[System Name 1]**
+  - Description: _e.g., “Repository for MOPBO.”_
+  - URL: [https://...](https://...)
+    
 ### 🖥 Demo Systems
 
 - **[System Name 1]**
   - Description: _e.g., “Web demo for VKG-based design exploration.”_
   - URL: [https://...](https://...)
-  - Status: `online` / `internal only` / `prototype`
 
+### 📂 Datasets
+
+- **[Dataset Name 1]**
+  - Description: _What it contains, size, modality (e.g., “3D chairs + text attributes”)._
+  - Notes: _License, usage guidelines, etc._
 ---
 
 ## 📬 Contact
