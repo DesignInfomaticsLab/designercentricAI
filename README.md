@@ -6,12 +6,9 @@
 - 🔹 **Our research projects and demos**
 - 🔹 Shared datasets, code repositories, and publications
 ---
-
-## 🚀 Info
-
-- 🔗 [DesignInformaticsLab](https://designinformatics.hanyang.ac.kr/)
-- 🔗 [KAIST Visual AI Group](https://visualai.kaist.ac.kr/)
----
+> [!🚀 Info]
+> 🔗 [DesignInformaticsLab](https://designinformatics.hanyang.ac.kr/)
+> 🔗 [KAIST Visual AI Group](https://visualai.kaist.ac.kr/)
 
 ## 🧩 About This Page
 
