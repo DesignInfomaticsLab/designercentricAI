@@ -1,8 +1,8 @@
 # 🌐 디자이너 의도 기반의 AI활용 디자인 구현 기술 개발
      Development of AI-Driven Design Generation Technology Based on Designer Intent
 
-- 🔹  **총괄** :Designer-Centered AI Design Generation Pipeline (디자이너 중심의 AI 디자인 생성 파이프라인 개발)
-- 🔹  **1세부** : Development of AI-Driven Design Generation Technology Based on Designer Intent  (디자이너 의도 기반의 AI활용 디자인 구현 기술 개발)**
+- ⭐ **총괄** :Designer-Centered AI Design Generation Pipeline (디자이너 중심의 AI 디자인 생성 파이프라인 개발)
+- ⭐ **1세부** : Development of AI-Driven Design Generation Technology Based on Designer Intent  (디자이너 의도 기반의 AI활용 디자인 구현 기술 개발)
 - 🔹 **Our research projects and demos**
 - 🔹 Shared datasets, code repositories, and publications
 ---
@@ -13,7 +13,7 @@
 - 🔗 [KAIST Visual AI Group](https://visualai.kaist.ac.kr/)
 ---
 
-## 🧩 About This Portal
+## 🧩 About This Page
 
 - **Goal**: Provide a single entry point to all ongoing and past work related to **Designer-Centered AI Design Generation Pipeline**.
 - **Scope**:
