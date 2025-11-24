@@ -6,8 +6,8 @@
 
 ## 🚀 Quick Links
 
-- 🔗 [DesignInformaticsLab]
-- 🔗 [KAIST Visual AI Group]
+- 🔗 [DesignInformaticsLab](https://designinformatics.hanyang.ac.kr/)
+- 🔗 [KAIST Visual AI Group]([https://designinformatics.hanyang.ac.kr/](https://visualai.kaist.ac.kr/))
 ---
 
 ## 🧩 About This Portal
@@ -30,7 +30,6 @@
   _Author1, Author2, ..._  
   [[PDF]](https://...) [[BibTeX]](https://...) [[Project page]](https://...)
 
----
 ---
 
 ## 🧪 [KAIST Visual AI Group] Research & Project
@@ -74,11 +73,11 @@
 
 ## 📬 Contact
 
-- **Our side**:  
+- **[Design Informatics Lab]**:  
   - Name: **[Your Name]** – [email@domain]  
-  - Lab / Group: **DesignInfomaticsLab** – [Lab website](https://github.com/DesignInfomaticsLab)
+  - Lab / Group: **DesignInfomaticsLab** – [Lab website](https://designinformatics.hanyang.ac.kr/)
 
-- **KAIST side**:  
+- **[KAIST Visual AI Group]**:  
   - Name: **[Collaborator Name]** – [email@kaist.ac.kr]  
   - Lab: **[KAIST Lab Name]** – [Lab website](https://...)
 
