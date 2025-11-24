@@ -66,11 +66,11 @@
 ## 📬 Contact
 
 - **[Design Informatics Lab]**:  
-  - Lab Leader: **[Kyung Hoon Hyun]** – [hoonhello@hanyang.ac.kr]  
+  - Professor: **[Kyung Hoon Hyun]** – [hoonhello@hanyang.ac.kr]  
   - Lab / Group: **DesignInfomaticsLab** – [Lab website](https://designinformatics.hanyang.ac.kr/)
 
 - **[KAIST Visual AI Group]**:  
-  - Name: **[Minhyuk Sung]** – [mhsung (at) kaist.ac.kr]  
+  - Professor: **[Minhyuk Sung]** – [mhsung (at) kaist.ac.kr]  
   - Lab: **KAIST Visual AI Group** – [Lab website](https://visualai.kaist.ac.kr/)
 
 > For issues or broken links, please open a GitHub Issue in this repository.
