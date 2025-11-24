@@ -1,18 +1,22 @@
 # 🌐 디자이너 의도 기반의 AI활용 디자인 구현 기술 개발
      Development of AI-Driven Design Generation Technology Based on Designer Intent
-
-- ⭐ **총괄** :Designer-Centered AI Design Generation Pipeline (디자이너 중심의 AI 디자인 생성 파이프라인 개발)
-- ⭐ **1세부** : Development of AI-Driven Design Generation Technology Based on Designer Intent  (디자이너 의도 기반의 AI활용 디자인 구현 기술 개발)
+     
 - 🔹 **Our research projects and demos**
 - 🔹 Shared datasets, code repositories, and publications
+  
+> [!IMPORTANT]
+> - ⭐ **총괄** :Designer-Centered AI Design Generation Pipeline <br>
+> (디자이너 중심의 AI 디자인 생성 파이프라인 개발)
+> - ⭐ **1세부** : Development of AI-Driven Design Generation Technology Based on Designer Intent <br>
+>(디자이너 의도 기반의 AI활용 디자인 구현 기술 개발)
+> - 🔗 [DesignInformaticsLab](https://designinformatics.hanyang.ac.kr/)
+> - 🔗 [KAIST Visual AI Group](https://visualai.kaist.ac.kr/)
 ---
-> [!🚀 Info]
-> 🔗 [DesignInformaticsLab](https://designinformatics.hanyang.ac.kr/)
-> 🔗 [KAIST Visual AI Group](https://visualai.kaist.ac.kr/)
 
 ## 🧩 About This Page
 
-- **Goal**: Provide a single entry point to all ongoing and past work related to **Designer-Centered AI Design Generation Pipeline**.
+- **Goal**: Provide a single entry point to all ongoing and past work related to <br>
+  **[Development of AI-Driven Design Generation Technology Based on Designer Intent]**.
 - **Scope**:
   - Internal code/repos (private or public)
   - External project pages / demo videos
@@ -20,7 +24,7 @@
   - Shared infrastructure (datasets, APIs, etc.)
 ---
 
-## 🏫 [Design Informatics Lab] Research & Projects
+## 🏫 **[Design Informatics Lab]** Research & Projects
 > 한양대학교 측에서 진행 중인 관련 연구들을 정리하는 섹션입니다.
 
 
@@ -32,7 +36,7 @@
 
 ---
 
-## 🧪 [KAIST Visual AI Group] Research & Project
+## 🧪 **[KAIST Visual AI Group]** Research & Project
 > 카이스트 측에서 진행 중인 관련 연구들을 정리하는 섹션입니다.  
 
 ## 📚 Publications
