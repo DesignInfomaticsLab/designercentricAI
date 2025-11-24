@@ -5,7 +5,7 @@
 - 🔹 Shared datasets, code repositories, and publications
 ---
 
-## 🚀 Quick Links
+## 🚀 Info
 
 - 🔗 [DesignInformaticsLab](https://designinformatics.hanyang.ac.kr/)
 - 🔗 [KAIST Visual AI Group](https://visualai.kaist.ac.kr/)
