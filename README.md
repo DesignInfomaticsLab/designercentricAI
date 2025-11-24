@@ -25,9 +25,16 @@
 
 ## 📚 Publications
 
-- **[Paper Title, Venue, Year]**  
-  _Author1, Author2, ..._  
-  [[PDF]](https://...) [[BibTeX]](https://...) [[Project page]](https://...)
+- **Enhancing Consumer Perceptions and Experiences through Hybrid-Based Interfaces in Virtual Environments**  
+  _Tae Hee Jo, Haejoo Han, Kyung Hoon HyunCA_ <br>
+  _Electronic Commerce Research and Applications (2025) 74: 101551_ <br>
+  _SSCI Top 11% (Business, Computer Science, IF=6.3)_ <br>
+  [[PDF]](https://doi.org/10.1016/j.elerap.2025.101551) 
+- **Generating Command Modeling and Design Graphs with Data Augmentation for Enhanced 3D Modeling Support**  
+  _Yugyeong Jang, Kyung Hoon Hyun_ <br>
+  _Advanced Engineering Informatics (2025) 68: 103644_ <br>
+  _SCIE Top 2% (Computer Science, Artificial Intelligence; Multidisciplinary, IF=9.9)_ <br>
+  [[PDF]](https://doi.org/10.1016/j.aei.2025.103644)
 
 ---
 
