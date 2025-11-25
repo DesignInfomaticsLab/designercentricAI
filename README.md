@@ -38,8 +38,12 @@
 | 2 | ORIGEN <br> (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/ORIGEN | `2D`, `Physics-Informed`, `Inference` |
 | 3 | RBF <br> (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling | `2D`, `Diffusion`, `Inference Optimization`, `Flow Models` |
 | 4 | Psi-Sampler <br>  (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Psi-Sampler | `2D`, `Sampling`, `Diffusion Models`, `Acceleration` |
+| 5 | GenPara <br>  (CHI2025) |  | `3D`, `text-conditional parameter`, `LLM` |
+| 6 | GenPara <br>  (CHI2025) |  | `3D`, `text-conditional parameter`, `LLM` |
+| 7 | CMD-Graph <br>  (ADVEI) |  | `3D`, `workflow` |
+| 8 | Bogen <br>  (arxiv) |  | `3D`, `PBO` |
 
-    
+
 ### 🖥 Demo Systems
 
 - **[System Name 1]**
