@@ -34,10 +34,10 @@
 
 | No. | 기술명 (Technology) | 링크 (Link) | 활용 태그 (Tags) |
 | --- | ------------------- | ----------- | ---------------- |
-| 1 | APC (ICCV 2025) | https://github.com/KAIST-Visual-AI-Group/APC-VLM | `APC`, `VLM`, `3D Reconstruction` |
-| 2 | ORIGEN (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/ORIGEN | `Generative Models`, `Physics-Informed`, `Inference` |
-| 3 | RBF / Flow Inference Time Scaling (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling | `Diffusion`, `Inference Optimization`, `Flow Models` |
-| 4 | Psi-Sampler (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Psi-Sampler | `Sampling`, `Diffusion Models`, `Acceleration` |
+| 1 | APC (ICCV 2025) | https://github.com/KAIST-Visual-AI-Group/APC-VLM | `VLM`, `3D Reconstruction` |
+| 2 | ORIGEN (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/ORIGEN | `2D`, `Physics-Informed`, `Inference` |
+| 3 | RBF / Flow Inference Time Scaling (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling | `2D`, `Diffusion`, `Inference Optimization`, `Flow Models` |
+| 4 | Psi-Sampler (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Psi-Sampler | `2D`, `Sampling`, `Diffusion Models`, `Acceleration` |
 
     
 ### 🖥 Demo Systems
