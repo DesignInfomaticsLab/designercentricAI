@@ -34,13 +34,13 @@
 
 | No. | 기술명 (Technology) | 링크 (Link) | 활용 태그 (Tags) |
 | --- | ------------------- | ----------- | ---------------- |
-| 1 | APC <br> (ICCV 2025) | https://github.com/KAIST-Visual-AI-Group/APC-VLM | `VLM`, `3D Reconstruction` |
-| 2 | ORIGEN <br> (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/ORIGEN | `2D`, `Physics-Informed`, `Inference` |
-| 3 | RBF <br> (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling | `2D`, `Diffusion`, `Inference Optimization`, `Flow Models` |
-| 4 | Psi-Sampler <br>  (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Psi-Sampler | `2D`, `Sampling`, `Diffusion Models`, `Acceleration` |
-| 5 | GenPara <br>  (CHI2025) |  | `3D`, `text-conditional parameter`, `LLM` |
-| 6 | CMD-Graph <br>  (ADVEI) |  | `3D`, `modeling workflow`, `command inference` |
-| 7 | Bogen <br>  (arxiv) |  | `3D`, `PBO` |
+| 1 | **APC** <br> (ICCV 2025) | https://github.com/KAIST-Visual-AI-Group/APC-VLM | `VLM`, `3D Reconstruction` |
+| 2 | **ORIGEN** <br> (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/ORIGEN | `2D`, `Physics-Informed`, `Inference` |
+| 3 | **RBF** <br> (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling | `2D`, `Diffusion`, `Inference Optimization`, `Flow Models` |
+| 4 | **Psi-Sampler** <br>  (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Psi-Sampler | `2D`, `Sampling`, `Diffusion Models`, `Acceleration` |
+| 5 | **GenPara** <br>  (CHI2025) |  | `3D`, `text-conditional parameter`, `LLM` |
+| 6 | **CMD-Graph** <br>  (ADVEI) |  | `3D`, `modeling workflow`, `command inference` |
+| 7 | **BOgen** <br>  (arxiv) |  | `Bayesian Optimization`, `Part-Level 3D Generation` |
 
 
 ### 🖥 Demo Systems
