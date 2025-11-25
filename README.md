@@ -36,7 +36,7 @@
 | --- | ------------------- | ----------- | ---------------- |
 | 1 | APC (ICCV 2025) | https://github.com/KAIST-Visual-AI-Group/APC-VLM | `VLM`, `3D Reconstruction` |
 | 2 | ORIGEN (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/ORIGEN | `2D`, `Physics-Informed`, `Inference` |
-| 3 | RBF / Flow Inference Time Scaling (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling | `2D`, `Diffusion`, `Inference Optimization`, `Flow Models` |
+| 3 | RBF (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling | `2D`, `Diffusion`, `Inference Optimization`, `Flow Models` |
 | 4 | Psi-Sampler (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Psi-Sampler | `2D`, `Sampling`, `Diffusion Models`, `Acceleration` |
 
     
