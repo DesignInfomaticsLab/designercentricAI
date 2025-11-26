@@ -39,7 +39,7 @@
 | 3 | **RBF** <br> (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling | `2D`, `Diffusion`, `Inference Optimization`, `Flow Models` |
 | 4 | **Psi-Sampler** <br>  (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Psi-Sampler | `2D`, `Sampling`, `Diffusion Models`, `Acceleration` |
 | 5 | **GenPara** <br>  (CHI2025) | https://github.com/DesignInfomaticsLab/Genpara | `3D`, `text-conditional parameter`, `LLM` |
-| 6 | **CMD-Graph** <br>  (ADVEI) |  | `3D`, `modeling workflow`, `command inference` |
+| 6 | **CMD-Graph** <br>  (ADVEI) | https://github.com/JangYugyeong28/CMD-Graph | `3D`, `modeling workflow`, `command inference` |
 | 7 | **BOgen** <br>  (arxiv) | https://github.com/lswgood0901/preference-based-3d-synthesis | `Bayesian Optimization`, `Part-Level 3D Generation` |
 
 
