@@ -32,27 +32,24 @@
 
 ### 🏴 Github repository
 
-#### 1단계 1차년도 (2025)
-
-| No. | 기술명 (Technology) | 링크 (Link) | 활용 태그 (Tags) |
-| --- | ------------------- | ----------- | ---------------- |
-| 1 | **APC** <br> (ICCV 2025) | https://github.com/KAIST-Visual-AI-Group/APC-VLM | `VLM`, `3D Reconstruction` |
-| 2 | **ORIGEN** <br> (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/ORIGEN | `2D`, `Physics-Informed`, `Inference` |
-| 3 | **RBF** <br> (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling | `2D`, `Diffusion`, `Inference Optimization`, `Flow Models` |
-| 4 | **Psi-Sampler** <br> (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Psi-Sampler | `2D`, `Sampling`, `Diffusion Models`, `Acceleration` |
-| 5 | **GenPara** <br> (CHI2025) | https://github.com/DesignInfomaticsLab/Genpara | `3D`, `text-conditional parameter`, `LLM` |
-| 6 | **CMD-Graph** <br> (ADVEI) | https://github.com/JangYugyeong28/CMD-Graph | `3D`, `modeling workflow`, `command inference` |
-| 7 | **BOgen** <br> (arxiv) | https://github.com/lswgood0901/preference-based-3d-synthesis | `Bayesian Optimization`, `Part-Level 3D Generation` |
-
-#### 1단계 2차년도 (2026)
-
-| No. | 기술명 (Technology) | 링크 (Link) | 활용 태그 (Tags) |
-| --- | ------------------- | ----------- | ---------------- |
-| 8 | **DesignJournal** <br> (IJHCI) | https://github.com/lswgood0901/designJournal | `Multimodal Design Records`, `Intent Alignment`, `Design Behavior Analysis` |
-| 9 | **GenAlign** <br> (ADVEI) | https://github.com/cosjiimos/GenAlign | `Visual Knowledge Graph`, `Design Attributes`, `Image Generation` |
-| 10 | **CogChat** <br> (UIST 2026) | https://github.com/cosjiimos/CogChat | `Design Intent Inference`, `Personal Knowledge Graph`, `Conversational AI` |
-| 11 | **Human-Operational 3D Indoor Scene Generation with LLM-Driven Anthropometric Simulation** <br> (Automation in Construction) | https://github.com/SeminJin/HumanOperationalScene | `3D Indoor Layout`, `Human Action Prediction`, `Anthropometric Simulation` |
-
+<table>
+  <thead><tr><th>No.</th><th>기술명 (Technology)</th><th>링크 (Link)</th><th>활용 태그 (Tags)</th></tr></thead>
+  <tbody>
+    <tr><th colspan="4" align="left">1단계 1차년도 (2025)</th></tr>
+    <tr><td>1</td><td><strong>APC</strong> <br> (ICCV 2025)</td><td><a href="https://github.com/KAIST-Visual-AI-Group/APC-VLM">https://github.com/KAIST-Visual-AI-Group/APC-VLM</a></td><td><code>VLM</code>, <code>3D Reconstruction</code></td></tr>
+    <tr><td>2</td><td><strong>ORIGEN</strong> <br> (NeurIPS 2025)</td><td><a href="https://github.com/KAIST-Visual-AI-Group/ORIGEN">https://github.com/KAIST-Visual-AI-Group/ORIGEN</a></td><td><code>2D</code>, <code>Physics-Informed</code>, <code>Inference</code></td></tr>
+    <tr><td>3</td><td><strong>RBF</strong> <br> (NeurIPS 2025)</td><td><a href="https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling">https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling</a></td><td><code>2D</code>, <code>Diffusion</code>, <code>Inference Optimization</code>, <code>Flow Models</code></td></tr>
+    <tr><td>4</td><td><strong>Psi-Sampler</strong> <br> (NeurIPS 2025)</td><td><a href="https://github.com/KAIST-Visual-AI-Group/Psi-Sampler">https://github.com/KAIST-Visual-AI-Group/Psi-Sampler</a></td><td><code>2D</code>, <code>Sampling</code>, <code>Diffusion Models</code>, <code>Acceleration</code></td></tr>
+    <tr><td>5</td><td><strong>GenPara</strong> <br> (CHI2025)</td><td><a href="https://github.com/DesignInfomaticsLab/Genpara">https://github.com/DesignInfomaticsLab/Genpara</a></td><td><code>3D</code>, <code>text-conditional parameter</code>, <code>LLM</code></td></tr>
+    <tr><td>6</td><td><strong>CMD-Graph</strong> <br> (ADVEI)</td><td><a href="https://github.com/JangYugyeong28/CMD-Graph">https://github.com/JangYugyeong28/CMD-Graph</a></td><td><code>3D</code>, <code>modeling workflow</code>, <code>command inference</code></td></tr>
+    <tr><td>7</td><td><strong>BOgen</strong> <br> (arxiv)</td><td><a href="https://github.com/lswgood0901/preference-based-3d-synthesis">https://github.com/lswgood0901/preference-based-3d-synthesis</a></td><td><code>Bayesian Optimization</code>, <code>Part-Level 3D Generation</code></td></tr>
+    <tr><th colspan="4" align="left">1단계 2차년도 (2026)</th></tr>
+    <tr><td>8</td><td><strong>DesignJournal</strong> <br> (IJHCI)</td><td><a href="https://github.com/lswgood0901/designJournal">https://github.com/lswgood0901/designJournal</a></td><td><code>Multimodal Design Records</code>, <code>Intent Alignment</code>, <code>Design Behavior Analysis</code></td></tr>
+    <tr><td>9</td><td><strong>GenAlign</strong> <br> (ADVEI)</td><td><a href="https://github.com/cosjiimos/GenAlign">https://github.com/cosjiimos/GenAlign</a></td><td><code>Visual Knowledge Graph</code>, <code>Design Attributes</code>, <code>Image Generation</code></td></tr>
+    <tr><td>10</td><td><strong>CogChat</strong> <br> (UIST 2026)</td><td><a href="https://github.com/cosjiimos/CogChat">https://github.com/cosjiimos/CogChat</a></td><td><code>Design Intent Inference</code>, <code>Personal Knowledge Graph</code>, <code>Conversational AI</code></td></tr>
+    <tr><td>11</td><td><strong>Human-Operational 3D Indoor Scene Generation with LLM-Driven Anthropometric Simulation</strong> <br> (Automation in Construction)</td><td><a href="https://github.com/SeminJin/HumanOperationalScene">https://github.com/SeminJin/HumanOperationalScene</a></td><td><code>3D Indoor Layout</code>, <code>Human Action Prediction</code>, <code>Anthropometric Simulation</code></td></tr>
+  </tbody>
+</table>
 
 ## 📬 Contact
 
