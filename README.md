@@ -1,5 +1,5 @@
 # 🌐 디자이너 의도 기반의 AI활용 디자인 구현 기술 개발
-     Development of AI-Driven Design Generation Technology Based on Designer Intent
+    Development of AI-Driven Design Generation Technology Based on Designer Intent
 - 🔹 Our research projects and demos
 - 🔹 Shared datasets, code repositories, and publications
 --
@@ -32,44 +32,40 @@
 
 ### 🏴 Github repository
 
+#### 1단계 1차년도 (2025)
+
 | No. | 기술명 (Technology) | 링크 (Link) | 활용 태그 (Tags) |
 | --- | ------------------- | ----------- | ---------------- |
 | 1 | **APC** <br> (ICCV 2025) | https://github.com/KAIST-Visual-AI-Group/APC-VLM | `VLM`, `3D Reconstruction` |
 | 2 | **ORIGEN** <br> (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/ORIGEN | `2D`, `Physics-Informed`, `Inference` |
 | 3 | **RBF** <br> (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling | `2D`, `Diffusion`, `Inference Optimization`, `Flow Models` |
-| 4 | **Psi-Sampler** <br>  (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Psi-Sampler | `2D`, `Sampling`, `Diffusion Models`, `Acceleration` |
-| 5 | **GenPara** <br>  (CHI2025) | https://github.com/DesignInfomaticsLab/Genpara | `3D`, `text-conditional parameter`, `LLM` |
-| 6 | **CMD-Graph** <br>  (ADVEI) | https://github.com/JangYugyeong28/CMD-Graph | `3D`, `modeling workflow`, `command inference` |
-| 7 | **BOgen** <br>  (arxiv) | https://github.com/lswgood0901/preference-based-3d-synthesis | `Bayesian Optimization`, `Part-Level 3D Generation` |
+| 4 | **Psi-Sampler** <br> (NeurIPS 2025) | https://github.com/KAIST-Visual-AI-Group/Psi-Sampler | `2D`, `Sampling`, `Diffusion Models`, `Acceleration` |
+| 5 | **GenPara** <br> (CHI2025) | https://github.com/DesignInfomaticsLab/Genpara | `3D`, `text-conditional parameter`, `LLM` |
+| 6 | **CMD-Graph** <br> (ADVEI) | https://github.com/JangYugyeong28/CMD-Graph | `3D`, `modeling workflow`, `command inference` |
+| 7 | **BOgen** <br> (arxiv) | https://github.com/lswgood0901/preference-based-3d-synthesis | `Bayesian Optimization`, `Part-Level 3D Generation` |
 
+#### 1단계 2차년도 (2026)
 
-### 🖥 Demo Systems
+| No. | 기술명 (Technology) | 링크 (Link) | 활용 태그 (Tags) |
+| --- | ------------------- | ----------- | ---------------- |
+| 8 | **DesignJournal** <br> (IJHCI) | https://github.com/lswgood0901/designJournal | `Multimodal Design Records`, `Intent Alignment`, `Design Behavior Analysis` |
+| 9 | **GenAlign** <br> (ADVEI) | https://github.com/cosjiimos/GenAlign | `Visual Knowledge Graph`, `Design Attributes`, `Image Generation` |
+| 10 | **CogChat** <br> (UIST 2026) | https://github.com/cosjiimos/CogChat | `Design Intent Inference`, `Personal Knowledge Graph`, `Conversational AI` |
+| 11 | **Human-Operational 3D Indoor Scene Generation with LLM-Driven Anthropometric Simulation** <br> (Automation in Construction) | https://github.com/SeminJin/HumanOperationalScene | `3D Indoor Layout`, `Human Action Prediction`, `Anthropometric Simulation` |
 
-- **[System Name 1]**
-  - Description: _e.g., “Web demo for VKG-based design exploration.”_
-  - URL: [https://...](https://...)
-  - Related Paper: [https://...](https://...)
-
-### 📂 Datasets
-
-- **[Dataset Name 1]**
-  - Description: _What it contains, size, modality (e.g., “3D chairs + text attributes”)._
-  - Notes: _License, usage guidelines, etc._
-  - Related Paper: [https://...](https://...)
----
 
 ## 📬 Contact
 
-- **[Design Informatics Lab]**:  
-  - Professor: **[Kyung Hoon Hyun]** – [hoonhello@hanyang.ac.kr]  
+- **[Design Informatics Lab]**:
+  - Professor: **[Kyung Hoon Hyun]** – [hoonhello@hanyang.ac.kr]
   - Lab / Group: **DesignInfomaticsLab** – [Lab website](https://designinformatics.hanyang.ac.kr/)
 
-- **[KAIST Visual AI Group]**:  
-  - Professor: **[Minhyuk Sung]** – [mhsung@kaist.ac.kr]  
+- **[KAIST Visual AI Group]**:
+  - Professor: **[Minhyuk Sung]** – [mhsung@kaist.ac.kr]
   - Lab: **KAIST Visual AI Group** – [Lab website](https://visualai.kaist.ac.kr/)
 
 > For issues or broken links, please open a GitHub Issue in this repository.
 
 ---
 
-_Last updated: `2025-11-24`_
+_Last updated: `2026-11-19`_
