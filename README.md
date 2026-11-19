@@ -31,98 +31,26 @@
 ## 🧷  Github repository & Demo Systems & Datasets
 
 ### 🏴 Github repository
-
 <table>
-  <thead>
-    <tr>
-      <th width="5%">No.</th>
-      <th width="30%">기술명 (Technology)</th>
-      <th width="35%">링크 (Link)</th>
-      <th width="30%">활용 태그 (Tags)</th>
-    </tr>
-  </thead>
+  <thead><tr><th>No.</th><th>기술명 (Technology)</th><th>링크 (Link)</th><th>활용 태그 (Tags)</th></tr></thead>
   <tbody>
-    <tr>
-      <th colspan="4" align="left">1단계 1차년도 (2025)</th>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td><strong>APC</strong> (ICCV 2025)</td>
-      <td><a href="https://github.com/KAIST-Visual-AI-Group/APC-VLM">GitHub Repository</a></td>
-      <td><code>VLM</code>, <code>3D Reconstruction</code></td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td><strong>ORIGEN</strong> (NeurIPS 2025)</td>
-      <td><a href="https://github.com/KAIST-Visual-AI-Group/ORIGEN">GitHub Repository</a></td>
-      <td><code>2D</code>, <code>Physics-Informed</code>, <code>Inference</code></td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td><strong>RBF</strong> (NeurIPS 2025)</td>
-      <td><a href="https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling">GitHub Repository</a></td>
-      <td><code>2D</code>, <code>Diffusion</code>, <code>Inference Optimization</code>, <code>Flow Models</code></td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td><strong>Psi-Sampler</strong> (NeurIPS 2025)</td>
-      <td><a href="https://github.com/KAIST-Visual-AI-Group/Psi-Sampler">GitHub Repository</a></td>
-      <td><code>2D</code>, <code>Sampling</code>, <code>Diffusion Models</code>, <code>Acceleration</code></td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td><strong>GenPara</strong> (CHI 2025)</td>
-      <td><a href="https://github.com/DesignInfomaticsLab/Genpara">GitHub Repository</a></td>
-      <td><code>3D</code>, <code>text-conditional parameter</code>, <code>LLM</code></td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td><strong>CMD-Graph</strong> (ADVEI)</td>
-      <td><a href="https://github.com/JangYugyeong28/CMD-Graph">GitHub Repository</a></td>
-      <td><code>3D</code>, <code>modeling workflow</code>, <code>command inference</code></td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td><strong>BOgen</strong> (Scientific Reports)</td>
-      <td><a href="https://github.com/lswgood0901/preference-based-3d-synthesis">GitHub Repository</a></td>
-      <td><code>Bayesian Optimization</code>, <code>Part-Level 3D Generation</code></td>
-    </tr>
-
-    <tr>
-      <th colspan="4" align="left">1단계 2차년도 (2026)</th>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td><strong>DesignJournal</strong> (IJHCI)</td>
-      <td><a href="https://github.com/lswgood0901/designJournal">GitHub Repository</a></td>
-      <td><code>Multimodal Design Records</code>, <code>Intent Alignment</code>, <code>Design Behavior Analysis</code></td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td><strong>GenAlign</strong> (ADVEI)</td>
-      <td><a href="https://github.com/cosjiimos/GenAlign">GitHub Repository</a></td>
-      <td><code>Visual Knowledge Graph</code>, <code>Design Attributes</code>, <code>Image Generation</code></td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td><strong>CogChat</strong> (UIST 2026)</td>
-      <td><a href="https://github.com/cosjiimos/CogChat">GitHub Repository</a></td>
-      <td><code>Design Intent Inference</code>, <code>Personal Knowledge Graph</code>, <code>Conversational AI</code></td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td><strong>Human-Operational 3D Indoor Scene Generation with LLM-Driven Anthropometric Simulation</strong> (Automation in Construction)</td>
-      <td><a href="https://github.com/SeminJin/HumanOperationalScene">GitHub Repository</a></td>
-      <td><code>3D Indoor Layout</code>, <code>Human Action Prediction</code>, <code>Anthropometric Simulation</code></td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td><strong>Behavior-Aware Anthropometric Scene Generation for Human-Usable 3D Layouts</strong> (CHI 2026)</td>
-      <td><a href="https://kindohyoku.github.io/BehaviorAware/">Project Page</a></td>
-      <td><code>3D Indoor Layout</code>, <code>Human Behavior</code>, <code>Anthropometric Constraints</code>, <code>Usability Evaluation</code></td>
-    </tr>
+    <tr><th colspan="4" align="left">1단계 1차년도 (2025)</th></tr>
+    <tr><td>1</td><td><strong>APC</strong> <br> (ICCV 2025)</td><td><a href="https://github.com/KAIST-Visual-AI-Group/APC-VLM">https://github.com/KAIST-Visual-AI-Group/APC-VLM</a></td><td><code>VLM</code>, <code>3D Reconstruction</code></td></tr>
+    <tr><td>2</td><td><strong>ORIGEN</strong> <br> (NeurIPS 2025)</td><td><a href="https://github.com/KAIST-Visual-AI-Group/ORIGEN">https://github.com/KAIST-Visual-AI-Group/ORIGEN</a></td><td><code>2D</code>, <code>Physics-Informed</code>, <code>Inference</code></td></tr>
+    <tr><td>3</td><td><strong>RBF</strong> <br> (NeurIPS 2025)</td><td><a href="https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling">https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling</a></td><td><code>2D</code>, <code>Diffusion</code>, <code>Inference Optimization</code>, <code>Flow Models</code></td></tr>
+    <tr><td>4</td><td><strong>Psi-Sampler</strong> <br> (NeurIPS 2025)</td><td><a href="https://github.com/KAIST-Visual-AI-Group/Psi-Sampler">https://github.com/KAIST-Visual-AI-Group/Psi-Sampler</a></td><td><code>2D</code>, <code>Sampling</code>, <code>Diffusion Models</code>, <code>Acceleration</code></td></tr>
+    <tr><td>5</td><td><strong>GenPara</strong> <br> (CHI2025)</td><td><a href="https://github.com/DesignInfomaticsLab/Genpara">https://github.com/DesignInfomaticsLab/Genpara</a></td><td><code>3D</code>, <code>text-conditional parameter</code>, <code>LLM</code></td></tr>
+    <tr><td>6</td><td><strong>CMD-Graph</strong> <br> (ADVEI)</td><td><a href="https://github.com/JangYugyeong28/CMD-Graph">https://github.com/JangYugyeong28/CMD-Graph</a></td><td><code>3D</code>, <code>modeling workflow</code>, <code>command inference</code></td></tr>
+    <tr><td>7</td><td><strong>BOgen</strong> <br> (Scientific Reports)</td><td><a href="https://github.com/lswgood0901/preference-based-3d-synthesis">https://github.com/lswgood0901/preference-based-3d-synthesis</a></td><td><code>Bayesian Optimization</code>, <code>Part-Level 3D Generation</code></td></tr>
+    <tr><th colspan="4" align="left">1단계 2차년도 (2026)</th></tr>
+    <tr><td>8</td><td><strong>DesignJournal</strong> <br> (IJHCI)</td><td><a href="https://github.com/lswgood0901/designJournal">https://github.com/lswgood0901/designJournal</a></td><td><code>Multimodal Design Records</code>, <code>Intent Alignment</code>, <code>Design Behavior Analysis</code></td></tr>
+    <tr><td>9</td><td><strong>GenAlign</strong> <br> (ADVEI)</td><td><a href="https://github.com/cosjiimos/GenAlign">https://github.com/cosjiimos/GenAlign</a></td><td><code>Visual Knowledge Graph</code>, <code>Design Attributes</code>, <code>Image Generation</code></td></tr>
+    <tr><td>10</td><td><strong>CogChat</strong> <br> (UIST 2026)</td><td><a href="https://github.com/cosjiimos/CogChat">https://github.com/cosjiimos/CogChat</a></td><td><code>Design Intent Inference</code>, <code>Personal Knowledge Graph</code>, <code>Conversational AI</code></td></tr>
+    <tr><td>11</td><td><strong>Human-Operational 3D Indoor Scene Generation with LLM-Driven Anthropometric Simulation</strong> <br> (Automation in Construction)</td><td><a href="https://github.com/SeminJin/HumanOperationalScene">https://github.com/SeminJin/HumanOperationalScene</a></td><td><code>3D Indoor Layout</code>, <code>Human Action Prediction</code>, <code>Anthropometric Simulation</code></td></tr>
+    <tr><td>11</td><td><strong>Behavior-Aware Anthropometric Scene Generation for Human-Usable 3D Layouts</strong> <br>(CHI 2026)</td><td><a href="https://kindohyoku.github.io/BehaviorAware/">https://kindohyoku.github.io/BehaviorAware/</a></td><td><code>3D Indoor Layout</code>, <code>Human Action Prediction</code>, <code>Anthropometric Simulation</code><code>Usability Evaluation</code></td></tr>
   </tbody>
 </table>
+
 
 
 ## 📬 Contact
