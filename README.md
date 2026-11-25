@@ -27,19 +27,66 @@
 > The KAIST Visual AI Group, led by Minhyuk Sung, conducts research on advancing technologies for generating, processing, and analyzing diverse visual data. Our work spans areas such as machine learning, computer vision, and computer graphics.
 
 ---
+## 🧷 Github repository & Demo Systems & Datasets
 
-## 🧷  Github repository & Demo Systems & Datasets<table>
-  <thead><tr><th>No.</th><th>기술명 (Technology)</th><th>링크 (Link)</th><th>활용 태그 (Tags)</th></tr></thead>
+<table>
+  <thead>
+    <tr>
+      <th>No.</th>
+      <th>기술명 (Technology)</th>
+      <th>링크 (Link)</th>
+      <th>활용 태그 (Tags)</th>
+    </tr>
+  </thead>
   <tbody>
-    <tr><th colspan="4" align="left">1단계 1차년도 (2025)</th></tr>
-    <tr><td>1</td><td><strong>APC</strong> <br> (ICCV 2025)</td><td><a href="https://github.com/KAIST-Visual-AI-Group/APC-VLM">https://github.com/KAIST-Visual-AI-Group/APC-VLM</a></td><td><code>VLM</code>, <code>3D Reconstruction</code></td></tr>
-    <tr><td>2</td><td><strong>ORIGEN</strong> <br> (NeurIPS 2025)</td><td><a href="https://github.com/KAIST-Visual-AI-Group/ORIGEN">https://github.com/KAIST-Visual-AI-Group/ORIGEN</a></td><td><code>2D</code>, <code>Physics-Informed</code>, <code>Inference</code></td></tr>
-    <tr><td>3</td><td><strong>RBF</strong> <br> (NeurIPS 2025)</td><td><a href="https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling">https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling</a></td><td><code>2D</code>, <code>Diffusion</code>, <code>Inference Optimization</code>, <code>Flow Models</code></td></tr>
-    <tr><td>4</td><td><strong>Psi-Sampler</strong> <br> (NeurIPS 2025)</td><td><a href="https://github.com/KAIST-Visual-AI-Group/Psi-Sampler">https://github.com/KAIST-Visual-AI-Group/Psi-Sampler</a></td><td><code>2D</code>, <code>Sampling</code>, <code>Diffusion Models</code>, <code>Acceleration</code></td></tr>
-    <tr><td>5</td><td><strong>GenPara</strong> <br> (CHI2025)</td><td><a href="https://github.com/DesignInfomaticsLab/Genpara">https://github.com/DesignInfomaticsLab/Genpara</a></td><td><code>3D</code>, <code>text-conditional parameter</code>, <code>LLM</code></td></tr>
-    <tr><td>6</td><td><strong>CMD-Graph</strong> <br> (ADVEI)</td><td><a href="https://github.com/JangYugyeong28/CMD-Graph">https://github.com/JangYugyeong28/CMD-Graph</a></td><td><code>3D</code>, <code>modeling workflow</code>, <code>command inference</code></td></tr>
-    <tr><td>7</td><td><strong>BOgen</strong> <br> (Scientific Reports)</td><td><a href="https://github.com/lswgood0901/preference-based-3d-synthesis">https://github.com/lswgood0901/preference-based-3d-synthesis</a></td><td><code>Bayesian Optimization</code>, <code>Part-Level 3D Generation</code></td></tr>
-    <tr><th colspan="4" align="left">1단계 2차년도 (2026)</th></tr>
+    <tr>
+      <th colspan="4" align="left">1단계 1차년도 (2025)</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td><strong>APC</strong><br>(ICCV 2025)</td>
+      <td><a href="https://github.com/KAIST-Visual-AI-Group/APC-VLM">https://github.com/KAIST-Visual-AI-Group/APC-VLM</a></td>
+      <td><code>VLM</code>, <code>3D Reconstruction</code></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td><strong>ORIGEN</strong><br>(NeurIPS 2025)</td>
+      <td><a href="https://github.com/KAIST-Visual-AI-Group/ORIGEN">https://github.com/KAIST-Visual-AI-Group/ORIGEN</a></td>
+      <td><code>2D</code>, <code>Physics-Informed</code>, <code>Inference</code></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td><strong>RBF</strong><br>(NeurIPS 2025)</td>
+      <td><a href="https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling">https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling</a></td>
+      <td><code>2D</code>, <code>Diffusion</code>, <code>Inference Optimization</code>, <code>Flow Models</code></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td><strong>Psi-Sampler</strong><br>(NeurIPS 2025)</td>
+      <td><a href="https://github.com/KAIST-Visual-AI-Group/Psi-Sampler">https://github.com/KAIST-Visual-AI-Group/Psi-Sampler</a></td>
+      <td><code>2D</code>, <code>Sampling</code>, <code>Diffusion Models</code>, <code>Acceleration</code></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td><strong>GenPara</strong><br>(CHI 2025)</td>
+      <td><a href="https://github.com/DesignInfomaticsLab/Genpara">https://github.com/DesignInfomaticsLab/Genpara</a></td>
+      <td><code>3D</code>, <code>text-conditional parameter</code>, <code>LLM</code></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td><strong>CMD-Graph</strong><br>(ADVEI)</td>
+      <td><a href="https://github.com/JangYugyeong28/CMD-Graph">https://github.com/JangYugyeong28/CMD-Graph</a></td>
+      <td><code>3D</code>, <code>modeling workflow</code>, <code>command inference</code></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td><strong>BOgen</strong><br>(Scientific Reports)</td>
+      <td><a href="https://github.com/lswgood0901/preference-based-3d-synthesis">https://github.com/lswgood0901/preference-based-3d-synthesis</a></td>
+      <td><code>Bayesian Optimization</code>, <code>Part-Level 3D Generation</code></td>
+    </tr>
+    <tr>
+      <th colspan="4" align="left">1단계 2차년도 (2026)</th>
+    </tr>
     <tr>
       <td>8</td>
       <td><strong>DesignJournal</strong><br>(IJHCI)</td>
@@ -72,36 +119,36 @@
     </tr>
     <tr>
       <td>13</td>
-      <td><strong>Token Warping Helps MLLMs Look from Nearby Viewpoints</strong><br>(CVPR 2026)</td>
-      <td><a href="https://github.com/KAIST-Visual-AI-Group/Token-Warping-MLLM">https://github.com/KAIST-Visual-AI-Group/Token-Warping-MLLM</a><br><small>코드 공개 예정</small></td>
-      <td><code>MLLM</code>, <code>Token Warping</code>, <code>Viewpoint Transformation</code>, <code>Spatial Reasoning</code></td>
+      <td><strong>DesignLoRA</strong><br>(ADVEI)</td>
+      <td><a href="https://github.com/lswgood0901/designlora">https://github.com/lswgood0901/designlora</a></td>
+      <td><code>Text-to-Image</code>, <code>LoRA Fine-Tuning</code>, <code>Designer-in-the-Loop</code>, <code>Preference Alignment</code></td>
     </tr>
     <tr>
       <td>14</td>
+      <td><strong>Token Warping Helps MLLMs Look from Nearby Viewpoints</strong><br>(CVPR 2026)</td>
+      <td><a href="https://github.com/KAIST-Visual-AI-Group/Token-Warping-MLLM">https://github.com/KAIST-Visual-AI-Group/Token-Warping-MLLM</a></td>
+      <td><code>MLLM</code>, <code>Token Warping</code>, <code>Viewpoint Transformation</code>, <code>Spatial Reasoning</code></td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td><strong>MatLat: Material Latent Space for PBR Texture Generation</strong><br>(CVPR 2026 Highlight)</td>
       <td><a href="https://github.com/KAIST-Visual-AI-Group/MatLat">https://github.com/KAIST-Visual-AI-Group/MatLat</a></td>
       <td><code>3D</code>, <code>PBR Texture Generation</code>, <code>Material Latent Space</code>, <code>Diffusion Models</code></td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td><strong>GPER: Gradient Preconditioning for Efficient and Reliable Reward-Guided Generation</strong><br>(ICML 2026)</td>
       <td><a href="https://github.com/KAIST-Visual-AI-Group/GPER">https://github.com/KAIST-Visual-AI-Group/GPER</a></td>
       <td><code>Reward-Guided Generation</code>, <code>Gradient Preconditioning</code>, <code>Inference Optimization</code>, <code>Reward Hacking Prevention</code></td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td><strong>MUNI: Multimodal Unified Latent Diffusion for Coherent Any-to-Any Generation</strong><br>(NeurIPS 2026)</td>
       <td><a href="https://github.com/KAIST-Visual-AI-Group/MUNI">https://github.com/KAIST-Visual-AI-Group/MUNI</a></td>
       <td><code>Multimodal Generation</code>, <code>Any-to-Any Generation</code>, <code>Latent Diffusion</code>, <code>Image-Text-Audio</code></td>
     </tr>
-    <tr>
-      <td>17</td>
-      <td><strong>DesignLoRA</strong><br>(ADVEI)</td>
-      <td><a href="https://github.com/lswgood0901/designlora">https://github.com/lswgood0901/designlora</a><br><small>프로젝트 웹페이지 저장소 · 코드 공개 예정</small></td>
-      <td><code>Text-to-Image</code>, <code>LoRA Fine-Tuning</code>, <code>Designer-in-the-Loop</code>, <code>Preference Alignment</code></td>
-    </tr>
   </tbody>
-</table>\
+</table>
 
 
 
