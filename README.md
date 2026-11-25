@@ -28,9 +28,17 @@
 
 ---
 
-## 🧷  Github repository & Demo Systems & Datasets
-
-### 🏴 Github repository
+## 🧷  Github repository & Demo Systems & Datasets<table>
+  <thead><tr><th>No.</th><th>기술명 (Technology)</th><th>링크 (Link)</th><th>활용 태그 (Tags)</th></tr></thead>
+  <tbody>
+    <tr><th colspan="4" align="left">1단계 1차년도 (2025)</th></tr>
+    <tr><td>1</td><td><strong>APC</strong> <br> (ICCV 2025)</td><td><a href="https://github.com/KAIST-Visual-AI-Group/APC-VLM">https://github.com/KAIST-Visual-AI-Group/APC-VLM</a></td><td><code>VLM</code>, <code>3D Reconstruction</code></td></tr>
+    <tr><td>2</td><td><strong>ORIGEN</strong> <br> (NeurIPS 2025)</td><td><a href="https://github.com/KAIST-Visual-AI-Group/ORIGEN">https://github.com/KAIST-Visual-AI-Group/ORIGEN</a></td><td><code>2D</code>, <code>Physics-Informed</code>, <code>Inference</code></td></tr>
+    <tr><td>3</td><td><strong>RBF</strong> <br> (NeurIPS 2025)</td><td><a href="https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling">https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling</a></td><td><code>2D</code>, <code>Diffusion</code>, <code>Inference Optimization</code>, <code>Flow Models</code></td></tr>
+    <tr><td>4</td><td><strong>Psi-Sampler</strong> <br> (NeurIPS 2025)</td><td><a href="https://github.com/KAIST-Visual-AI-Group/Psi-Sampler">https://github.com/KAIST-Visual-AI-Group/Psi-Sampler</a></td><td><code>2D</code>, <code>Sampling</code>, <code>Diffusion Models</code>, <code>Acceleration</code></td></tr>
+    <tr><td>5</td><td><strong>GenPara</strong> <br> (CHI2025)</td><td><a href="https://github.com/DesignInfomaticsLab/Genpara">https://github.com/DesignInfomaticsLab/Genpara</a></td><td><code>3D</code>, <code>text-conditional parameter</code>, <code>LLM</code></td></tr>
+    <tr><td>6</td><td><strong>CMD-Graph</strong> <br> (ADVEI)</td><td><a href="https://github.com/JangYugyeong28/CMD-Graph">https://github.com/JangYugyeong28/CMD-Graph</a></td><td><code>3D</code>, <code>modeling workflow</code>, <code>command inference</code></td></tr>
+    <tr><td>7</td><td><strong>BOgen</strong> <br> (Scientific Reports)</td><td><a href="https://github.com/lswgood0901/preference-based-3d-synthesis">https://github.com/lswgood0901/preference-based-3d-synthesis</a></td><td><code>Bayesian Optimization</code>, <code>Part-Level 3D Generation</code></td></tr>
     <tr><th colspan="4" align="left">1단계 2차년도 (2026)</th></tr>
     <tr>
       <td>8</td>
@@ -93,7 +101,7 @@
       <td><code>Text-to-Image</code>, <code>LoRA Fine-Tuning</code>, <code>Designer-in-the-Loop</code>, <code>Preference Alignment</code></td>
     </tr>
   </tbody>
-</table>
+</table>\
 
 
 
